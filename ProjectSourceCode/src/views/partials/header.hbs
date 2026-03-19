@@ -1,0 +1,11 @@
+<header class="site-header">
+  <nav class="navbar">
+    <a href="/" class="logo">🎬 FlickPick</a>
+    {{#if user}}
+    <div class="nav-links">
+      <span class="nav-user">Hi, {{user.username}}</span>
+      <a href="/logout" class="nav-link">Logout</a>
+    </div>
+    {{/if}}
+  </nav>
+</header>

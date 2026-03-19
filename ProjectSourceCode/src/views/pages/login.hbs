@@ -1,0 +1,22 @@
+<div class="auth-container">
+  <h1 class="auth-title">Welcome Back</h1>
+  <p class="auth-subtitle">Sign in to discover your next favorite film</p>
+
+  {{#if message}}
+  <div class="alert">{{message}}</div>
+  {{/if}}
+
+  <form action="/login" method="POST" class="auth-form">
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" required autocomplete="username" />
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" required autocomplete="current-password" />
+    </div>
+    <button type="submit" class="btn-primary">Sign In</button>
+  </form>
+
+  <p class="switch-auth">Don't have an account? <a href="/register">Register</a></p>
+</div>
