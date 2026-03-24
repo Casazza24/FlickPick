@@ -57,7 +57,7 @@ For movie lovers and social viewers, who are overwhelmed by endless catalogs and
 
 ## 8. Version Control
 
-**GitHub Repository:** [https://github.com/Casazza24/FlickPick]
+**GitHub Repository:** [https://github.com/CSCI3308-FInal-Project/FlickPick]
 
 Repository structure:
 ```
