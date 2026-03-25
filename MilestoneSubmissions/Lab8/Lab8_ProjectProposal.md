@@ -98,7 +98,7 @@ The team will use **[FILL IN — e.g., Discord / Slack / MS Teams]** as the prim
 
 ## 12. Use Case Diagram
 
-> **Note:** The diagram image file is located at `MilestoneSubmissions/use_case_diagram.png` [FILL IN — attach diagram].
+> **Note:** The diagram image file is located at `MilestoneSubmissions/use_case_diagram.png`.
 
 The diagram covers the following 6+ key features and actor interactions:
 
@@ -119,7 +119,7 @@ The diagram covers the following 6+ key features and actor interactions:
 
 ## 13. Wireframes
 
-> **Note:** Wireframe images are located in `MilestoneSubmissions/wireframes/` [FILL IN — attach sketches or exported files].
+> **Note:** Wireframe images are located in `MilestoneSubmissions/wireframes/`.
 
 The following pages have been wireframed:
 
